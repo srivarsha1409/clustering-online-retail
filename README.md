@@ -6,6 +6,7 @@ This project builds a **Customer Segmentation System** for an **Online Retail Da
 The goal is to group customers into **segments** (VIPs, Regulars, Occasional Buyers, etc.) to help businesses understand customer behavior and improve marketing strategies.
 
 It also provides a **Streamlit Web App** for interactive exploration and prediction.
+
 LIVE DEMO:https://clustering-online-retail-nmufdxe2xuzcbe6n6xeeka.streamlit.app/
 ---
 
