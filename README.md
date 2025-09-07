@@ -164,11 +164,19 @@ streamlit run app.py
 ## 📊 Visualizations
 
 * **Histograms** of R, F, M before & after transformation
-* 
+ <img width="700" height="470" alt="image" src="https://github.com/user-attachments/assets/acea1ca9-b406-4946-8ae9-020455c85e65" />
+
 * **Boxplots** to check outliers
+  <img width="713" height="470" alt="image" src="https://github.com/user-attachments/assets/f4c2e1aa-a936-4655-86bf-2e365bcb19e1" />
+
 * **Elbow Curve** (WCSS vs k)
+ img width="713" height="470" alt="image" src="https://github.com/user-attachments/assets/9534c85e-eadd-4a84-82a3-c8a15a2e81ce" />
 * **Silhouette Score Plot**
+  <img width="700" height="470" alt="image" src="https://github.com/user-attachments/assets/da826991-46f6-4e17-aa3b-77a93a15fb77" />
+
 * **Bar Charts** for cluster profiling
+  <img width="549" height="393" alt="image" src="https://github.com/user-attachments/assets/6678d53c-f008-4b49-bc6f-6607ca4fcf4b" />
+
 
 ---
 
