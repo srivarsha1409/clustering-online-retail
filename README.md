@@ -180,7 +180,5 @@ streamlit run app.py
 
 
 ---
-
-
-
-Do you want me to also **add the actual Python code snippets** (like the Elbow method, silhouette calculation, etc.) **directly inside the README** so people can reproduce without digging through notebooks?
+username:admin 
+password:1234 
